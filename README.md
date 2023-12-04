@@ -1,1 +1,3 @@
-# brick_game
+# Pong Game
+
+SFML C++
