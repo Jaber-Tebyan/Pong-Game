@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jaber/Documents/workspace/sfml_projects/non-libraries/brick_game/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/game.dir/src/main.cpp.o -c /home/jaber/Documents/workspace/sfml_projects/non-libraries/brick_game/src/main.cpp",
+  "file": "/home/jaber/Documents/workspace/sfml_projects/non-libraries/brick_game/src/main.cpp"
+}
+]

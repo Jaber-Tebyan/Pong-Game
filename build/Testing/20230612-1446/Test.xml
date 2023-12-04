@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++"
+	BuildStamp="20230612-1446-Experimental"
+	Name="kali"
+	Generator="ctest-3.25.1"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="14.0.6"
+	OSName="Linux"
+	Hostname="kali"
+	OSRelease="6.0.0-kali6-amd64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Debian 6.0.12-1kali1 (2022-12-19)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="976"
+	TotalPhysicalMemory="7841"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2484.65"
+	>
+	<Testing>
+		<StartDateTime>Jun 12 19:24 +0430</StartDateTime>
+		<StartTestTime>1686581686</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 12 19:24 +0430</EndDateTime>
+		<EndTestTime>1686581686</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
